@@ -16,7 +16,7 @@ version = "1.2.3"
 edition = "2018"
 
 [dependencies]
-regex = "1.4.2"
+regex = "1.5"
 xml-rs = "0.8.3"
 zip = { version = "0.5.13", default-features = false, features = ["deflate"]}
 percent-encoding = "2.1.0"
